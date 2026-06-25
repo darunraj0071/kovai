@@ -1,0 +1,22 @@
+# Kovai Connect - Coimbatore Business Directory
+
+Coimbatore's definitive multi-service business directory connecting Kovai's finest industries, software firms, healthcare facilities, manufacturing plants, educational institutions, and retail outlets.
+
+## Core Navigation
+- [Home Page](/index.html): Browse industries by category, search verified local business profiles, view interactive map of Coimbatore.
+- [About Us](/about.html): Learn about our mission to digitize and index the industrial hub of Coimbatore.
+- [Contact Us](/contact.html): Connect with support or visit our central offices.
+- [Register Business](/register.html): Add your company profile to Coimbatore's directory.
+
+## Industrial Directories
+- [Textiles & Mills](/textiles.html): Coimbatore's heritage textile sector, cotton exporters, spinning mills.
+- [IT & Software](/it.html): Software development hubs, SaaS startups, tech parks in Saravanampatti and Avinashi Road.
+- [Healthcare](/healthcare.html): Multi-specialty hospitals, eye clinics, and healthcare institutions.
+- [Manufacturing](/manufacturing.html): CNC machine makers, agricultural and domestic pumps, automotive components.
+- [Education](/education.html): Top engineering colleges, deemed universities, and arts colleges.
+- [Retail & Lifestyle](/retail.html): Silk saree showrooms, jewellery retailers, shopping centers.
+
+## Contact Information
+- **Phone**: +91 98402 79047
+- **Email**: sales@jbsoft.in
+- **Address**: New No 39 (Old No 16,17), 2nd Floor, Kodambakkam Road, West Mambalam, Chennai - 600 033.
